@@ -1,0 +1,133 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container-fluid{
+    color: blue;
+    background-color: blue;
+    height: 200%;
+    width: 100%;
+}
+
+button{
+    margin-right: 10%;
+}
+
+
+.box{
+    background-color: black;
+        width: 100%;
+        height: 550px;
+}
+.cane{
+    height: 600px;
+    width: 100%;
+    
+
+}
+
+
+.image-1 ,.image-2{
+height: 230px;
+width: 80%;
+text-align: center;
+margin-left: 10%;
+
+}
+/* .image-2{
+    margin-top: 10%;
+    padding: 10%;
+} */
+
+.third{
+    float: left;
+    width: 30%;
+    
+
+}
+.forth{
+float: right;
+width: 70%;
+height: 600px;
+}
+
+.bar{
+    display: flex;
+    height: 600px;
+    width: 100%;
+    justify-content:space-between;
+    background-color: blue;
+}
+.meal{
+    width: 100%;
+    height: 500px;
+}
+.text{
+    margin-left: 20%;
+    color: aliceblue;
+}
+
+.heading{
+    font-display: 25%;
+    color: blue;
+    text-align: center;
+}
+
+
+.last{
+width: 100%;
+height: 250px;
+background-color: aliceblue;
+
+
+}
+.social__item-container{
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    word-spacing: 10px;
+    width: 100%;
+    height: 180px;
+    margin: auto;
+    position: relative;
+    margin-top: 5%;
+
+}
+.slides{
+width: 80%;
+margin-left: 10%;
+background-color: azure;
+height: 250px;
+}
+
+.social__item-image{
+    width: 80%;
+    height: 200px;
+    display: flex;
+    
+}
+
+.text-body{
+    color:white;
+    margin-left: 30%;
+    height: 10px;
+    display: flex;
+
+    
+}
+
+.nav-item mb-3{
+    width: 100%;
+    height: 100px;
+}
+
+.mid{
+    height: 30px;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: blue;
+    
+}
